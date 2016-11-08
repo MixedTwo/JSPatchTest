@@ -1,0 +1,23 @@
+PODS:
+  - JSPatchPlatform (1.6.2):
+    - JSPatchPlatform/Core (= 1.6.2)
+  - JSPatchPlatform/Core (1.6.2)
+
+DEPENDENCIES:
+  - JSPatchPlatform (from `https://github.com/bang590/JSPatchPlatform.git`)
+
+EXTERNAL SOURCES:
+  JSPatchPlatform:
+    :git: https://github.com/bang590/JSPatchPlatform.git
+
+CHECKOUT OPTIONS:
+  JSPatchPlatform:
+    :commit: 8b3cf830e8954e7527ad6a7f0a9629c9456dacb6
+    :git: https://github.com/bang590/JSPatchPlatform.git
+
+SPEC CHECKSUMS:
+  JSPatchPlatform: 105e331f1b899a397d2bc0300a9ace9f9d7b8f08
+
+PODFILE CHECKSUM: 290a395c66825627a5cc239a904fd4a652374859
+
+COCOAPODS: 1.0.1
